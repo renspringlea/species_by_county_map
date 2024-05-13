@@ -6,15 +6,13 @@ library(shiny) #For creating the shiny web app
 library(ggplot2) #For graphing
 library(scales) #To help graphing
 library(viridis) #To help graphing
-library(ggnewscale) #To help graphing
-#library(usmap) #For graphing US state names
 library(plotly) #For interactive graphing
 
 #################
 ### Load data ###
 #################
 
-read_df_shiny_3 <- readRDS("df_shiny_3.Rda")
+read_df_shiny_3 <- readRDS("data/df_shiny_3.Rda")
 
 #################################
 ### Define UI for application ###
