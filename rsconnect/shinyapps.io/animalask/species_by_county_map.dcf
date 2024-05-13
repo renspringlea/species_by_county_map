@@ -1,0 +1,13 @@
+name: species_by_county_map
+title: species_by_county_map
+username: animalask
+account: animalask
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11959159
+bundleId: 8589855
+url: https://animalask.shinyapps.io/species_by_county_map/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .here
